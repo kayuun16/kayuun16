@@ -26,8 +26,8 @@ Atualmente faço faculdade de ciência da computação na UERJ (6º período) e 
 
 <b>Hobbies</b>
 
-- 🎶 Estou sempre ouvindo música em meus tempos livres.
-- 🎮 Estou sempre jogando alguma coisa, principalmente jogos FPS e de terror co-op.
+- 🎶 Gosto de ouvir música em meu tempo livre.
+- 🎮 Estou sempre jogando alguma coisa, principalmente jogos FPS e terror co-op.
 - 📖 Amo assistir animes e ler mangás, me considero o maior fã de Gintama, One Piece e Kingdom. Minha lista completa está aqui: <a href="https://myanimelist.net/profile/Kayuuun">MyAnimeList</a> e <a href="https://anilist.co/user/Kayuun/">Anilist</a>.
 
 ## 📊 Meus Status

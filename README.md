@@ -30,13 +30,22 @@ Atualmente faço faculdade de ciência da computação na UERJ (6º período) e 
 - 🎮 Estou sempre jogando alguma coisa, principalmente jogos FPS e de terror co-op.
 - 📖 Amo assistir animes e ler mangás, me considero o maior fã de Gintama, One Piece e Kingdom. Minha lista completa está aqui: <a href="https://myanimelist.net/profile/Kayuuun">MyAnimeList</a> e <a href="https://anilist.co/user/Kayuun/">Anilist</a>.
 
-##
+## 📊 Meus Status
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayuun16&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayuun16&hide=Html&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayuun16&theme=jolly) |
-| :-: | :-: | :-: |
+<div style="text-align: center;" align="center">
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kayuun16&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayuun16&theme=jolly) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kayuun16&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
+  <a href="https://github.com/kayuun16/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kayuun16&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ##
 

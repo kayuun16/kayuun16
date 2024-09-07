@@ -15,7 +15,7 @@
     <a href="https://instagram.com/kauan_lucas14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:klasgamer3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://steamcommunity.com/id/kayuun_/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-    <a href="https://letterboxd.com/Kayuun_/" target="_blank"><img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white></a>
+    <a href="https://letterboxd.com/Kayuun_/" target="_blank"><img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white"></a>
     <a href="https://open.spotify.com/playlist/6o1LuCFkX37bEnLxPClceR?si=09520d3240954260" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
     <a href="https://www.linkedin.com/in/kauan-lucas-219b29273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

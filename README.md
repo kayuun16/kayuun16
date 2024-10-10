@@ -30,7 +30,7 @@ Atualmente faço faculdade de ciência da computação na UERJ (6º período) e 
 
 - 🎮 Estou sempre jogando alguma coisa, principalmente jogos FPS e terror co-op.
 
-- 📖 Amo assistir animes e ler mangás, me considero o maior fã de Gintama, One Piece e Kingdom. Minha lista completa está aqui: <a href="https://myanimelist.net/profile/Kayuuun">MyAnimeList</a> e <a href="https://anilist.co/user/Kayuun/">Anilist</a>.
+- 📖 Amo assistir animes e ler mangás, me considero o maior fã de Gintama, One Piece e Kingdom. Minha lista completa está aqui: <a href="https://myanimelist.net/profile/Kayuuun" target="_blank">MyAnimeList</a> e <a href="https://anilist.co/user/Kayuun/" target="_blank">Anilist</a>.
 
 ## 📊 Meus Status
 

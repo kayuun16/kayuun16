@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atualmente faço faculdade de ciência da computação na UERJ (6º período) e curso técnico em informática na Estácio.
+Atualmente faço faculdade de ciência da computação na UERJ (9º período) e curso técnico em informática na Estácio.
 
 <b>Hobbies</b>
 
